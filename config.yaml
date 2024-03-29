@@ -1,0 +1,8 @@
+path: /Users/sudhansh/Desktop/Projects/Machine Learning Practice/Object Detection/yolo
+train: ./train
+val: ./test
+test: ./test
+
+#Class names
+names: 
+  0: person
